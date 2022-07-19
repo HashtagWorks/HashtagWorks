@@ -1,6 +1,6 @@
 - 👋 Hi, We're @HashtagWorks
 - 👀 We're interested in digital marketing.
-- 🌱 We're currently designing and developing. 
+- 🌱 We're are learning and growing. 
 - 💞️ We're always looking to collaborate.
 - 📫 Message Us here at GitHub.
 
